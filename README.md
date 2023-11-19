@@ -1,1 +1,1 @@
-"# 1C-AutoService" 
+Just University project, nothing to see here <(￣︶￣)>
