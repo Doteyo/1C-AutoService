@@ -1,2 +1,25 @@
 ﻿1CV8LOG(ver 2.0)
 254f0319-a9bd-4d3d-be9a-d75e4bd205bf
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-EMINEM",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$Session$_.Finish",3},
+{4,"_$InfoBase$_.ConfigUpdate",4},
+{4,"_$InfoBase$_.DBConfigUpdateStart",5},
+{4,"_$InfoBase$_.PredefinedDataUpdate",6},
+{5,9a5df90a-bcc8-4947-96b3-2cf3bb19e906,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",7},
+{3,"1CV8C",2},
+{3,"BackgroundJob",3},
+{5,71267c61-ca4a-49ea-8068-710775494295,"",2},
+{5,23ba2b77-8465-4c45-b991-be55a4ffe090,"",3},
+{5,6a4b1d08-6b49-4f1b-887d-501fcc4960dc,"",4},
+{5,75ada0e1-453b-4180-9bdc-c3ca53034f9e,"",5},
+{5,11a06a58-4640-4190-b93b-7653e82c3e97,"",6},
+{5,7962b16a-4502-4bc3-b550-6e1874e8b7b2,"",7},
+{5,863b43fb-c96e-47ec-92d7-0c271d9c7d51,"",8},
+{5,48df9620-cbbc-472d-ade1-f5ca8df3cfdd,"",9}
