@@ -57,4 +57,6 @@
 {5,7962b16a-4502-4bc3-b550-6e1874e8b7b2,"Справочник.Обслуживаемые_авто",7},
 {5,3bcd571b-1f4c-4768-b1c6-b9404000f823,"Документ.Продажа_товаров",22},
 {4,"_$Data$_.Unpost",17},
-{5,52e97e10-e1d1-4bb0-b165-1990eeb10f0f,"",23}
+{5,52e97e10-e1d1-4bb0-b165-1990eeb10f0f,"",23},
+{4,"_$InfoBase$_.ConfigExtensionUpdate",18},
+{4,"_$InfoBase$_.DBConfigExtensionUpdate",19}
