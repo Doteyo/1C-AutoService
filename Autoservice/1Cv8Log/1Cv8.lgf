@@ -59,4 +59,6 @@
 {4,"_$Data$_.Unpost",17},
 {5,52e97e10-e1d1-4bb0-b165-1990eeb10f0f,"",23},
 {4,"_$InfoBase$_.ConfigExtensionUpdate",18},
-{4,"_$InfoBase$_.DBConfigExtensionUpdate",19}
+{4,"_$InfoBase$_.DBConfigExtensionUpdate",19},
+{5,3b007396-7a41-4896-ada8-c8ba91273efa,"РегистрНакопления.Закупки",14},
+{5,3dc950ee-f8a8-4ace-a4f3-83f7fc16a020,"РегистрНакопления.Приходная_накладная",24}
